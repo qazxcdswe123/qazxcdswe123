@@ -4,20 +4,14 @@
   </a>
 </p>
 
-<table>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=qazxcdswe123&layout=compact" alt="Top Langs">
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api/wakatime?username=qazxcdswe123&layout=compact" alt="YuNing Chen's wakatime stats">
-      </a>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=qazxcdswe123&layout=compact" alt="Top Langs">
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=qazxcdswe123&layout=compact" alt="YuNing Chen's wakatime stats">
+  </a>
+</p>
 
 <!--
 **qazxcdswe123/qazxcdswe123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
