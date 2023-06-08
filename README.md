@@ -1,18 +1,14 @@
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=qazxcdswe123&show_icons=true" alt="YuNing Chen's GitHub stats">
+    <img src="https://github-readme-stats.vercel-sigma-five.app/api?username=qazxcdswe123&show_icons=true" alt="YuNing Chen's GitHub stats">
   </a>
-</p>
 
-<p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=qazxcdswe123&layout=compact" alt="Top Langs">
+    <img src="https://github-readme-stats.vercel-sigma-five.app/api/top-langs/?username=qazxcdswe123&layout=compact" alt="Top Langs">
   </a>
-</p>
 
-<p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=qazxcdswe123&layout=compact" alt="YuNing Chen's wakatime stats">
+    <img src="https://github-readme-stats.vercel-sigma-five.app/api/wakatime?username=qazxcdswe123&layout=compact" alt="YuNing Chen's wakatime stats">
   </a>
 </p>
 
