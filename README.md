@@ -9,7 +9,7 @@
   </a>
 -->
 
-  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <a href="https://wakatime.com/dashboard">
     <img src="https://github-readme-stats.vercel.app/api/wakatime?username=qazxcdswe123&layout=compact&langs_count=6" alt="YuNing Chen's wakatime stats">
   </a>
 </p>
